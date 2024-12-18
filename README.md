@@ -8,9 +8,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [obsidian发布的探索](https://qlog.9udange.top/105-极客/写作工具/obsidian发布的探索/)
-- [Obsidian 实现复制时自动上传图片到图床](https://qlog.9udange.top/105/obsidian/)
-- [Obsidian tar插件实现obsidian内部集成LLM对话](https://qlog.9udange.top/105/obsidian-tar-obsidian-llm/)
+- [Obsidian 实现复制时自动上传图片到图床](https://qlog.9udange.top/Obsidian/Obsidian 实现复制时自动上传图片到图床/)
+- [obsidian技巧之用maoxian插件剪藏网络文章，同时把图片下载到本地](https://qlog.9udange.top/Obsidian/obsidian技巧之用maoxian插件剪藏网络文章，同时把图片下载到本地/)
+- [我维护了一个obsidian示例库，分享了我的obsidian工作流](https://qlog.9udange.top/Obsidian/我维护了一个obsidian示例库，分享了我的obsidian工作流/)
 - [口播剪辑工作流探索](https://qlog.9udange.top/多媒体制作/口播剪辑工作流探索/)
-- [Anyblock插件](https://qlog.9udange.top/Obsidian插件/Anyblock插件/)
+- [Anyblock插件入门](https://qlog.9udange.top/Obsidian/Anyblock插件入门/)
 <!-- BLOG-POST-LIST:END -->
