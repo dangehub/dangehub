@@ -9,8 +9,8 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Obsidian 实现复制时自动上传图片到图床](https://qlog.9udange.top/Obsidian/Obsidian 实现复制时自动上传图片到图床/)
+- [测试webhook用](https://qlog.9udange.top/自托管折腾/测试webhook用/)
+- [follow认证用](https://qlog.9udange.top/自托管折腾/follow认证用/)
+- [Obsidian轻量级PPT教程，如何快速展示你的笔记-发布版](https://qlog.9udange.top/Obsidian/Obsidian轻量级PPT教程，如何快速展示你的笔记-发布版/)
 - [obsidian技巧之用maoxian插件剪藏网络文章，同时把图片下载到本地](https://qlog.9udange.top/Obsidian/obsidian技巧之用maoxian插件剪藏网络文章，同时把图片下载到本地/)
-- [我维护了一个obsidian示例库，分享了我的obsidian工作流](https://qlog.9udange.top/Obsidian/我维护了一个obsidian示例库，分享了我的obsidian工作流/)
-- [口播剪辑工作流探索](https://qlog.9udange.top/多媒体制作/口播剪辑工作流探索/)
-- [Anyblock插件入门](https://qlog.9udange.top/Obsidian/Anyblock插件入门/)
 <!-- BLOG-POST-LIST:END -->
