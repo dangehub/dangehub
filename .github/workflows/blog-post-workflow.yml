@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://qlog.9udange.top/feed.xml"
+          feed_list: "https://blog.qudange.top/feed.xml"
