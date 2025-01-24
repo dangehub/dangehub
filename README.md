@@ -16,9 +16,9 @@ I'm qudange.
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [README](https://qlog.9udange.top/)
 - [迈向爱折腾的geek的第一步——学会提问、学会查资料](https://qlog.9udange.top/迈向爱折腾的geek的第一步——学会提问、学会查资料/)
-- [用于测试自定义短链接](https://qlog.9udange.top/自托管折腾/用于测试自定义短链接/)
+- [follow认证文件](https://qlog.9udange.top/自托管折腾/follow认证文件/)
 - [一键把excalidraw的头脑风暴输出为线性文章](https://qlog.9udange.top/Obsidian/一键把excalidraw的头脑风暴输出为线性文章/)
 - [Obsidian轻量级PPT教程](https://qlog.9udange.top/Obsidian/Obsidian轻量级PPT教程/)
-- [Obsidian插件测评-i18n-汉化插件、翻译词典编辑器、云端共享词典、内置沉浸式翻译](https://qlog.9udange.top/Obsidian/Obsidian插件测评/Obsidian插件测评-i18n-汉化插件、翻译词典编辑器、云端共享词典、内置沉浸式翻译/)
 <!-- BLOG-POST-LIST:END -->
