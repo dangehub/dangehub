@@ -19,6 +19,6 @@ I'm qudange.
 - [README](https://blog.qudange.top/)
 - [迈向爱折腾的geek的第一步——学会提问、学会查资料](https://blog.qudange.top/迈向爱折腾的geek的第一步——学会提问、学会查资料/)
 - [follow认证文件](https://blog.qudange.top/自托管折腾/follow认证文件/)
+- [ollama离线运行AI模型-反思翻译法-沉浸式翻译-免费又好用的翻译](https://blog.qudange.top/效率工具/ollama离线运行AI模型-反思翻译法-沉浸式翻译-免费又好用的翻译/)
 - [让Obsidian的光标丝滑移动](https://blog.qudange.top/Obsidian/让Obsidian的光标丝滑移动/)
-- [在移动端设备上管理Obsidian待办的方法探讨](https://blog.qudange.top/Obsidian/在移动端设备上管理Obsidian待办的方法探讨/)
 <!-- BLOG-POST-LIST:END -->
