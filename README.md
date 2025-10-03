@@ -12,7 +12,7 @@ Welcome to my GitHub profile!.I'm qudange.
 - [迈向爱折腾的geek的第一步——学会提问、学会查资料](https://blog.qudange.top/迈向爱折腾的geek的第一步——学会提问、学会查资料/)
 - [边看视频边做Obsidian笔记，试试HoverNotes](https://blog.qudange.top/效率工具/边看视频边做Obsidian笔记，试试HoverNotes/)
 - [obsidian技巧之用maoxian插件剪藏网络文章，同时把图片下载到本地](https://blog.qudange.top/Obsidian/obsidian技巧之用maoxian插件剪藏网络文章，同时把图片下载到本地/)
-- [Obsidian技巧之用maoxian插件剪藏网络文章，同时把图片下载到本地](https://blog.qudange.top/Obsidian/Obsidian技巧之用maoxian插件剪藏网络文章，同时把图片下载到本地/)
+- [用反思翻译法提升大语言模型翻译的质量](https://blog.qudange.top/效率工具/用反思翻译法提升大语言模型翻译的质量/)
 <!-- BLOG-POST-LIST:END -->
 
 # Something I did
