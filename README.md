@@ -8,11 +8,11 @@ Welcome to my GitHub profile!.I'm qudange.
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [README](https://blog.qudange.top/)
-- [迈向爱折腾的geek的第一步——学会提问、学会查资料](https://blog.qudange.top/迈向爱折腾的geek的第一步——学会提问、学会查资料/)
-- [边看视频边做Obsidian笔记，试试HoverNotes](https://blog.qudange.top/效率工具/边看视频边做Obsidian笔记，试试HoverNotes/)
+- [在移动端设备上管理Obsidian待办和备忘的方法探讨](https://blog.qudange.top/Obsidian/在移动端设备上管理Obsidian待办和备忘的方法探讨/)
+- [Thino与Mac软件popclip联动-实现系统级全局划词摘录](https://blog.qudange.top/Obsidian/Thino与Mac软件popclip联动-实现系统级全局划词摘录/)
 - [obsidian技巧之用maoxian插件剪藏网络文章，同时把图片下载到本地](https://blog.qudange.top/Obsidian/obsidian技巧之用maoxian插件剪藏网络文章，同时把图片下载到本地/)
-- [用反思翻译法提升大语言模型翻译的质量](https://blog.qudange.top/效率工具/用反思翻译法提升大语言模型翻译的质量/)
+- [把Obsidian发布为网页的各种方式探索](https://blog.qudange.top/Obsidian/把Obsidian发布为网页的各种方式探索/)
+- [用n8n实现反思翻译](https://blog.qudange.top/自托管折腾/用n8n实现反思翻译/)
 <!-- BLOG-POST-LIST:END -->
 
 # Something I did
