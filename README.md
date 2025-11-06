@@ -8,11 +8,11 @@ Welcome to my GitHub profile!.I'm qudange.
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [一键把excalidraw的头脑风暴输出为线性文章](https://blog.qudange.top/nonlinear-output/)
 - [在移动端设备上管理Obsidian待办和备忘的方法探讨](https://blog.qudange.top/Obsidian/在移动端设备上管理Obsidian待办和备忘的方法探讨/)
 - [Thino与Mac软件popclip联动-实现系统级全局划词摘录](https://blog.qudange.top/Obsidian/Thino与Mac软件popclip联动-实现系统级全局划词摘录/)
 - [obsidian技巧之用maoxian插件剪藏网络文章，同时把图片下载到本地](https://blog.qudange.top/Obsidian/obsidian技巧之用maoxian插件剪藏网络文章，同时把图片下载到本地/)
 - [把Obsidian发布为网页的各种方式探索](https://blog.qudange.top/Obsidian/把Obsidian发布为网页的各种方式探索/)
-- [用n8n实现反思翻译](https://blog.qudange.top/自托管折腾/用n8n实现反思翻译/)
 <!-- BLOG-POST-LIST:END -->
 
 # Something I did
