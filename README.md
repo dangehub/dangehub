@@ -8,11 +8,11 @@ Welcome to my GitHub profile!.I'm qudange.
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [解决“Obsidian wiki链接采用相对路径模式时会显示冗长的相对路径”的问题](https://blog.qudange.top/I-modded-Anchor-Link-Display-Text/)
 - [黑群晖意外移除SSD读写缓存后开机，导致raid1存储空间损毁的挽救记录](https://blog.qudange.top/save-my-synology/)
 - [一键把excalidraw的头脑风暴输出为线性文章](https://blog.qudange.top/nonlinear-output/)
 - [如何在安卓设备上用tasker实现ai总结b站视频（ios同理）](https://blog.qudange.top/tasker-ai-summery-bilibili/)
-- [在移动端设备上管理Obsidian待办和备忘的方法探讨](https://blog.qudange.top/Obsidian/在移动端设备上管理Obsidian待办和备忘的方法探讨/)
-- [Thino与Mac软件popclip联动-实现系统级全局划词摘录](https://blog.qudange.top/Obsidian/Thino与Mac软件popclip联动-实现系统级全局划词摘录/)
+- [安卓党狂喜！开源语音输入法「言犀键盘」：Rime 用户终于不用来回切输入法了](https://blog.qudange.top/效率工具/安卓党狂喜！开源语音输入法「言犀键盘」：Rime 用户终于不用来回切输入法了/)
 <!-- BLOG-POST-LIST:END -->
 
 # Something I did
